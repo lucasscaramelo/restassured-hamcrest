@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="restassured-hamcrest" target="1.5" />
+      <module name="restassured-hamcrest" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
